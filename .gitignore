@@ -47,6 +47,7 @@ src-buildout/
 src-mrd/
 extends-cache/*
 !extends-cache/README.txt
+pyvenv.cfg
 
 # local config
 local.cfg
